@@ -98,6 +98,8 @@ a:hover {
   flex-flow: column nowrap;
   grid-area: main;
   justify-content: flex-start;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 .cont > div {
@@ -111,7 +113,8 @@ a:hover {
   font-weight: 800;
 }
 
-.insta {
+.insta,
+.vids {
   align-content: space-between;
   align-items: center;
   display: flex;
@@ -130,4 +133,12 @@ a:hover {
 
 .modg img {
   width: 20vmin;
+}
+
+.vids img {
+  width: 15vmin;
+}
+
+.games img {
+  width: 12vmin;
 }
