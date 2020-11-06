@@ -114,6 +114,7 @@ a:hover {
 }
 
 .insta,
+.aud,
 .vids {
   align-content: space-between;
   align-items: center;
@@ -131,8 +132,8 @@ a:hover {
   text-align: center;
 }
 
-.modg img {
-  width: 20vmin;
+.aud img {
+  height: 15vmin;
 }
 
 .vids img {
