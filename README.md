@@ -1,5 +1,3 @@
-# github-page
+My GitHub Pages site
 
-miff-real.github.io/github-page
-
-www.dtilley.co.uk
+https://pages.github.com/
